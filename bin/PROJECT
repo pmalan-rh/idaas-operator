@@ -1,0 +1,20 @@
+domain: healthcare.redhat.com
+layout:
+- quarkus.javaoperatorsdk.io/v1-alpha
+projectName: idaas-operator
+resources:
+- api:
+    crdVersion: v1
+    namespaced: true
+  domain: healthcare.redhat.com
+  group: idaas
+  kind: FhirConfig
+  version: v1
+- api:
+    crdVersion: v1
+    namespaced: true
+  domain: healthcare.redhat.com
+  group: idaas
+  kind: IDaaSConfig
+  version: v1
+version: "3"

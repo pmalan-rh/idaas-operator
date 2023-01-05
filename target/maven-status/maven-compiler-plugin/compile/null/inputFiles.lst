@@ -1,0 +1,12 @@
+/home/psmalan/work/Healthcare/operator/idaas-operator/src/main/java/com/redhat/healthcare/FhirConfig.java
+/home/psmalan/work/Healthcare/operator/idaas-operator/src/main/java/com/redhat/healthcare/IDaaSConfig.java
+/home/psmalan/work/Healthcare/operator/idaas-operator/src/main/java/com/redhat/healthcare/ConnectorConfig.java
+/home/psmalan/work/Healthcare/operator/idaas-operator/src/main/java/com/redhat/healthcare/IDaaSConfigSpec.java
+/home/psmalan/work/Healthcare/operator/idaas-operator/src/main/java/com/redhat/healthcare/IDaaSConfigController.java
+/home/psmalan/work/Healthcare/operator/idaas-operator/src/main/java/com/redhat/healthcare/IDaaSEnums.java
+/home/psmalan/work/Healthcare/operator/idaas-operator/src/main/java/com/redhat/healthcare/IDaaSConfigStatus.java
+/home/psmalan/work/Healthcare/operator/idaas-operator/src/main/java/com/redhat/healthcare/FhirResource.java
+/home/psmalan/work/Healthcare/operator/idaas-operator/src/main/java/com/redhat/healthcare/CommonConfig.java
+/home/psmalan/work/Healthcare/operator/idaas-operator/src/main/java/com/redhat/healthcare/FhirConfigSpec.java
+/home/psmalan/work/Healthcare/operator/idaas-operator/src/main/java/com/redhat/healthcare/FhirConfigStatus.java
+/home/psmalan/work/Healthcare/operator/idaas-operator/src/main/java/com/redhat/healthcare/FhirConfigController.java
